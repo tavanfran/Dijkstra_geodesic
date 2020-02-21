@@ -1,0 +1,5 @@
+
+The file GeodesicDistances.cpp is a plugin of plumed. It should be placed in the src/dimred folder and compiled.
+The file geodesic_test.cpp is a c++ software to test the algorithm
+The input file is geodesic.dat
+The output file is geodesic_out.dat and contains the shortest path. It can be different if you use different parameters
